@@ -1,8 +1,8 @@
 # H1B Disclosure Data
 This python file is used to:
-1.visualize top n sponsored job titles
-2.visualize top n H-1B sponsors
-3.search H-1B official data based on employer name or job title
+1. visualize top n sponsored job titles
+2. visualize top n H-1B sponsors
+3. search H-1B official data based on employer name or job title
 
 
 
